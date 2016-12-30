@@ -1,3 +1,2 @@
-# webdev
-Web Development Projects </br>
-The source codes
+# FancyBox2
+A javascript plugin for IMAGE GALLERY
